@@ -1,1 +1,1 @@
-# Rescue_training
+# 这是深度学习练习的仓库
